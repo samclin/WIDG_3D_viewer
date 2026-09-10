@@ -1,10 +1,10 @@
-# WIDG_3D_viewer
+# Widgingarri Shelter 1: 2022 excavation finds 3D viewer
 
 ## Overview
 
 This repository contains an interactive 3D visualization of archaeological finds recovered during the 2022 excavations at **Widgingarri Shelter 1** in the Kimberley region of northwest Australia.
 
-**Widgingarri Shelter 1** is a culturally significant site of the Arraluli people. 
+**Widgingarri Shelter 1** is a culturally significant site of the Arraluli people. The 2022 excavation was a collaboration between the Arraluli and the Australian Research Council Centre of Excellence for Australian Biodiversity and Heritage.
 
 [!IMPORTANT]
 The visualization presents archaeological data from a culturally significant site of the Arraluli people, and is shared in support of the publications listed below.
