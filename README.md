@@ -12,7 +12,7 @@ The visualization presents archaeological data from a culturally significant sit
 The visualization accompanies and supplements the following publications:
 
 - Hayes et al. (submitted). Tool use, maintenance and pigment processing at Widgingarri Shelter 1: Insights into Aboriginal technological practices from ≥55,000 years ago.
-- Lin et al. (2026). Recent archaeological investigations at Widgingarri Shelter 1, northwest Australia. *Australian Archaeology*.
+- Lin et al. (2026). Recent archaeological investigations at Widgingarri Shelter 1, northwest Australia. *Australian Archaeology*. https://doi.org/10.1080/03122417.2026.2717665
 
 The interactive plot allows users to explore the three-dimensional spatial distribution of artefacts recovered from the excavation. Individual finds are plotted according to their recorded excavation coordinates and can be examined interactively within a web browser.
 
