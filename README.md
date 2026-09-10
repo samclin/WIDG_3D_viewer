@@ -27,6 +27,8 @@ The interactive plot allows users to explore the three-dimensional spatial distr
 
 Download the repository and open `index.html` in a modern web browser.
 
+Alternatively, you can access the plot through this link: https://samclin.github.io/WIDG_3D_viewer/
+
 Recommended browsers:
 - Google Chrome
 - Microsoft Edge
