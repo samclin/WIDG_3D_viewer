@@ -20,12 +20,12 @@ The interactive plot allows users to explore the three-dimensional spatial distr
 
 ## Repository Contents
 
-- `Widgingarri_3D_Plot.html` - Interactive 3D visualization of excavated finds.
+- `index.html` - Interactive 3D visualization of excavated finds.
 - `README.md` - Documentation and usage instructions.
 
 ## Viewing the Visualisation
 
-Download the repository and open `Widgingarri_3D_Plot.html` in a modern web browser.
+Download the repository and open `index.html` in a modern web browser.
 
 Recommended browsers:
 - Google Chrome
